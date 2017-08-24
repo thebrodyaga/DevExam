@@ -1,5 +1,5 @@
 # DevExam
 
   - Клиент-серверное приложение. 
-  - Material
+  - Material дизайн
   - Используемые библиотеки: Retrofit 2, Picasso 
